@@ -139,5 +139,5 @@ I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interest
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wfsh2hra790u98y4m9itgyka2&width={750})
+<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wfsh2hra790u98y4m9itgyka2&width={750}) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
