@@ -120,8 +120,8 @@ I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interest
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SAQLAINAP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAQLAINAP&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAQLAINAP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAQLAINAP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAQLAINAP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAQLAINAP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SAQLAINAP&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAQLAINAP&radius=16&theme=one-dark&area=true&order=5&bg_color=000&color=ffbf34&line=E34234&point=4b006e&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
@@ -135,7 +135,7 @@ I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interest
 ---
 [![](https://visitcount.itsvg.in/api?id=SAQLAINAP&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/SAQLAINAP/SAQLAINAP/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/SAQLAINAP/SAQLAINAP/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
