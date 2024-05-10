@@ -18,4 +18,6 @@ I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interest
 ---
 [![](https://visitcount.itsvg.in/api?id=SAQLAINAP&icon=5&color=8)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wfsh2hra790u98y4m9itgyka2)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
