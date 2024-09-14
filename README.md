@@ -97,8 +97,8 @@ I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interest
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
