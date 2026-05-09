@@ -1,39 +1,70 @@
-# 💫 About Me:
-I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interested in technologies like blockchain-Web3,IoT and Cloud Computing.<br>I'm From Bangalore, pursuing B.E in AI-ML , currently in my 2nd year.<br>I love watching movies and gaming too.<br>I find myself interested in community meetings and Outings.<br>
+# 💫 About Me
 
+<div align="left">
+
+```bash
+> whoami
+saqlain-ahmed-p
+
+> cat about.txt
+🔭 Currently building and shipping production AI/ML systems as a Forward Deployed Engineer @ Plivo
+🎓 Final-year B.E. in AI & Machine Learning at DSCE, Bangalore — CGPA 9.25
+🌱 Exploring Web3, IoT, and Cloud-Native infrastructure
+🏆 ~8 hackathon wins | 1st place in debate, seminar & extempore
+🎮 Into movies, gaming, community meetups and the occasional outing
+💬 Ask me about AI · ML · GenAI · DevOps · InfoSec · Data Science
+📫 302saqlainahmed@gmail.com
+
+> status
+✅ Open to collaborations and internships
+
+
+```
+
+</div>
 
 ## 🌐 Socials:
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saqlain.ahmed.9026040) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saqlain_x_ahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-ahmed-p-sap) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/302saqlainahmed) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Saqlain-Ahmed-95) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/saqlain-ahmed-p) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/saqlainap) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saqlainahmed302) -->
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/saqlain-ahmed-p-sap" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo" />
   </a>
+  <img width="12" />
   <a href="https://x.com/saqlainahmed302" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="53" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="35" alt="twitter logo" />
   </a>
+  <img width="12" />
   <a href="https://www.hackerrank.com/profile/saqlainahmed3021" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="53" height="35" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"   height="35" alt="hackerrank logo" />
   </a>
+  <img width="12" />
   <a href="https://www.discord.com/users/806500962386051103" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="53" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"   height="35" alt="discord logo" />
   </a>
+  <img width="12" />
   <a href="https://www.facebook.com/saqlain.ahmed.9026040" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="53" height="35" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"   height="35" alt="facebook logo" />
   </a>
-  <a href="302saqlainahmed@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="35" alt="gmail logo"  />
+  <img width="12" />
+  <a href="mailto:302saqlainahmed@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"   height="35" alt="gmail logo" />
   </a>
+  <img width="12" />
   <a href="https://instagram.com/saqlain_x_ahmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"   height="35" alt="instagram logo" />
   </a>
+  <img width="12" />
   <a href="https://linktr.ee/sap_302" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="53" height="35" alt="linktree logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg"   height="35" alt="linktree logo" />
   </a>
+  <img width="12" />
   <a href="https://twitch.tv/saqlainap" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="53" height="35" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg"   height="35" alt="twitch logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="53" height="35" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg"   height="35" alt="slack logo" />
 </div>
+
+
 
 ###
 
@@ -44,18 +75,97 @@ I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interest
 
 ###
 
+<h4>Languages</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+</div>
+
+<h4>AI / ML</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+</div>
+
+<h4>Frontend</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+</div>
+
+<h4>Backend & APIs</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+</div>
+
+<h4>DevOps & Cloud</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+</div>
+
+<h4>Databases</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+</div>
+
+<h4>Design & Other</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
 </div>
 
 ###
@@ -122,22 +232,48 @@ I'm Currently working on to learn skills associated with AI-ML. <br>I'm Interest
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAQLAINAP&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAQLAINAP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAQLAINAP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SAQLAINAP&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAQLAINAP&radius=16&theme=one-dark&area=true&order=5&bg_color=000&color=ffbf34&line=E34234&point=4b006e&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+![SAQLAINAP's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=SAQLAINAP&theme=radical&chart=bars)
+![SAQLAINAP's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=SAQLAINAP&type=top-repos&theme=radical)
+![SAQLAINAP's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=SAQLAINAP&type=contributions&theme=radical)
+![SAQLAINAP's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=SAQLAINAP&type=languages&theme=radical&chart=bars)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAQLAINAP&radius=16&theme=radical&area=true&order=5&bg_color=000&color=ffbf34&line=E34234&point=4b006e&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
+### Certifications
+<table>
+  <tr>
+    <td>
+      <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9e333afe-60bd-474e-8ff5-6f90d19d5f48-saqlain-ahmed-p-8deae288-6dea-448e-854e-93c09134aae3-certificate.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/KCNA-Kubernetes%20%26%20Cloud%20Native%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KCNA certificate" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.freecodecamp.org/certification/Saqlainap/foundational-c-sharp-with-microsoft" target="_blank">
+        <img src="https://img.shields.io/badge/Foundational%20C%23%20with%20Microsoft-freeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp C# certificate" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://certificates.cs50.io/5230fd17-8fad-41e2-bb32-5b8711c051f0.pdf?size=letter" target="_blank">
+        <img src="https://img.shields.io/badge/CS50P-Introduction%20to%20Programming-4c4c4c?style=for-the-badge&logo=python&logoColor=white" alt="CS50P certificate" />
+      </a>
+    </td>
+    <td>
+      <a href="https://certificates.cs50.io/0c311c90-1745-4eeb-977b-a966d5431687.pdf?size=letter" target="_blank">
+        <img src="https://img.shields.io/badge/CS50X-Introduction%20to%20Computer%20Science-4c4c4c?style=for-the-badge&logo=c&logoColor=white" alt="CS50X certificate" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=700" alt="quote" width="80%" />
 
----
-[![](https://visitcount.itsvg.in/api?id=SAQLAINAP&icon=5&color=8)](https://visitcount.itsvg.in)
-
+<img src="https://komarev.com/ghpvc/?username=saqlainap&color=blueviolet&style=plastic" />
 <!-- <img src="https://raw.githubusercontent.com/SAQLAINAP/SAQLAINAP/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
-<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wfsh2hra790u98y4m9itgyka2&width={750}) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
