@@ -46,58 +46,48 @@ status:    open to collaborations ✦
 | 🟢 | **Forward Deployed Engineer** | **Plivo** | Feb 2026 – now | AI IVR platform and agentic query-resolution chatbot · internal RAG knowledge system + n8n automations (**+25%** EDA efficiency) · benchmarked **8 voice AI vendors** on real PSTN calls |
 | ⚪ | Product Dev & Engineering Intern | Kroolo AI | Jul – Nov 2025 | Policy analyzer & generator from scratch (**40+ policies, 90%+ accuracy, −40%** review time) · Enterprise Search (**−30%** response time) |
 | ⚪ | Prompt Engineering Intern | GetCreatr AI | May – Jul 2025 | Shipped **5 end-to-end AI apps**, **$3,000+** client revenue |
-| ⚪ | Tech Intern | Spawn Labs | May – Jun 2023 | Full-stack app with the founding team · hosting & VCS workflows |
-| ⚪ | Campus Ambassador | Coding Ninjas & GeeksforGeeks | 2023 – 2024 | Community growth, workshops, mentor sessions |
 
 ## ▍Featured builds
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SAQLAINAP/CodeCity"><img src="assets/projects/codecity.svg" width="100%" alt="CodeCity" /></a>
-      <h3><a href="https://github.com/SAQLAINAP/CodeCity">CodeCity</a></h3>
-      A visual trust layer for AI coding agents. Your repo becomes a living city: every file is a building, every agent action is a visible event. Click a building to get a plain-language explanation.
-      <br /><br />
-      <code>JavaScript</code> <code>Canvas</code> <code>Claude Code hooks</code>
+    <td width="33%" valign="top">
+      <a href="https://github.com/SAQLAINAP/CodeCity"><img src="assets/projects/codecity.svg" width="100%" alt="CodeCity" /></a><br />
+      <a href="https://github.com/SAQLAINAP/CodeCity"><b>CodeCity</b></a><br />
+      <sub>Your repo as a living city while an AI agent works on it.</sub><br />
+      <sub><code>JS · Canvas · Claude Code hooks</code></sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SAQLAINAP/GitClaw-Agent"><img src="assets/projects/gitclaw-agent.svg" width="100%" alt="GitClaw" /></a>
-      <h3><a href="https://github.com/SAQLAINAP/GitClaw-Agent">GitClaw</a></h3>
-      An AI PR reviewer that runs like production software: OTel traces, drift detection, an Ed25519-signed audit log and a 5-provider LLM fallback chain.
-      <br /><br />
-      <code>Node.js</code> <code>Anthropic SDK</code> <code>OpenTelemetry</code> <code>GitHub Actions</code>
+    <td width="33%" valign="top">
+      <a href="https://github.com/SAQLAINAP/GitClaw-Agent"><img src="assets/projects/gitclaw-agent.svg" width="100%" alt="GitClaw" /></a><br />
+      <a href="https://github.com/SAQLAINAP/GitClaw-Agent"><b>GitClaw</b></a><br />
+      <sub>AI PR reviewer with OTel traces, signed audit log and 5-LLM fallback.</sub><br />
+      <sub><code>Node · Anthropic SDK · OTel</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SAQLAINAP/FounderMap"><img src="assets/projects/foundermap.svg" width="100%" alt="FounderMap" /></a>
-      <h3><a href="https://github.com/SAQLAINAP/FounderMap">FounderMap</a> · <a href="https://founder-map-six.vercel.app">live ↗</a></h3>
-      A free global index of accelerators, grants and fellowships. Sources are scraped every 72h, entries are classified by an LLM, and community submissions are gated by a legitimacy agent. Runs at zero infra cost.
-      <br /><br />
-      <code>Next.js</code> <code>Python</code> <code>Groq</code> <code>GitHub Actions</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SAQLAINAP/resume-forge"><img src="assets/projects/resume-forge.svg" width="100%" alt="Resume-Forge" /></a>
-      <h3><a href="https://github.com/SAQLAINAP/resume-forge">Resume-Forge</a> · <a href="https://saqlainap.github.io/resume-forge/">live ↗</a></h3>
-      An offline, ATS-safe résumé builder with 32 formats and export to PDF, Word, LaTeX and Markdown. No backend, no account, no network calls. Available as a PWA and an Android APK.
-      <br /><br />
-      <code>React</code> <code>TypeScript</code> <code>Capacitor</code> <code>IndexedDB</code>
+    <td width="33%" valign="top">
+      <a href="https://github.com/SAQLAINAP/FounderMap"><img src="assets/projects/foundermap.svg" width="100%" alt="FounderMap" /></a><br />
+      <a href="https://github.com/SAQLAINAP/FounderMap"><b>FounderMap</b></a> · <a href="https://founder-map-six.vercel.app">live ↗</a><br />
+      <sub>Global index of grants and accelerators, curated by LLM agents.</sub><br />
+      <sub><code>Next.js · Python · Groq</code></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SAQLAINAP/Intent-Driven-Degradation-Contract"><img src="assets/projects/iddc.svg" width="100%" alt="IDDC" /></a>
-      <h3><a href="https://github.com/SAQLAINAP/Intent-Driven-Degradation-Contract">IDDC</a></h3>
-      Intent-Driven Degradation Contracts. You write a <code>degradation.yaml</code>, compile it, and the runtime enforces it: replicas, flags and queues shift as signals cross thresholds, and human gates guard the dangerous transitions.
-      <br /><br />
-      <code>Go</code> <code>YAML DSL</code> <code>Kubernetes</code> <code>Prometheus</code>
+    <td width="33%" valign="top">
+      <a href="https://github.com/SAQLAINAP/resume-forge"><img src="assets/projects/resume-forge.svg" width="100%" alt="Resume-Forge" /></a><br />
+      <a href="https://github.com/SAQLAINAP/resume-forge"><b>Resume-Forge</b></a> · <a href="https://saqlainap.github.io/resume-forge/">live ↗</a><br />
+      <sub>Offline, ATS-safe résumé builder with 32 formats.</sub><br />
+      <sub><code>React · TS · Capacitor</code></sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SAQLAINAP/Poligap"><img src="assets/projects/poligap.svg" width="100%" alt="PoliGap" /></a>
-      <h3><a href="https://github.com/SAQLAINAP/Poligap">PoliGap</a></h3>
-      AI compliance and contract analysis that finds risks, policy gaps and deviations in minutes. Every extraction is structured, every clause is cited, and redlining is automated.
-      <br /><br />
-      <code>FastAPI</code> <code>Next.js</code> <code>GraphQL</code> <code>Portkey</code>
+    <td width="33%" valign="top">
+      <a href="https://github.com/SAQLAINAP/Intent-Driven-Degradation-Contract"><img src="assets/projects/iddc.svg" width="100%" alt="IDDC" /></a><br />
+      <a href="https://github.com/SAQLAINAP/Intent-Driven-Degradation-Contract"><b>IDDC</b></a><br />
+      <sub>Degradation contracts compiled and enforced at runtime.</sub><br />
+      <sub><code>Go · Kubernetes · Prometheus</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/SAQLAINAP/Poligap"><img src="assets/projects/poligap.svg" width="100%" alt="PoliGap" /></a><br />
+      <a href="https://github.com/SAQLAINAP/Poligap"><b>PoliGap</b></a><br />
+      <sub>AI contract and compliance gap analysis with cited clauses.</sub><br />
+      <sub><code>FastAPI · Next.js · Portkey</code></sub>
     </td>
   </tr>
 </table>
