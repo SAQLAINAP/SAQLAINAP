@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g-foundermap" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbd535"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+    <pattern id="grid-foundermap" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#14160d" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="500" fill="url(#g-foundermap)"/>
+  <rect width="800" height="500" fill="url(#grid-foundermap)"/>
+
+  <!-- globe + program pins on the right -->
+  <g transform="translate(470 90)" stroke="#14160d" stroke-width="3">
+    <!-- globe -->
+    <circle cx="130" cy="150" r="130" fill="#fff4ec"/>
+    <!-- latitudes -->
+    <g fill="none" opacity="0.55">
+      <ellipse cx="130" cy="150" rx="130" ry="45"/>
+      <ellipse cx="130" cy="150" rx="130" ry="90"/>
+      <line x1="0" y1="150" x2="260" y2="150"/>
+    </g>
+    <!-- longitudes -->
+    <g fill="none" opacity="0.55">
+      <ellipse cx="130" cy="150" rx="45"  ry="130"/>
+      <ellipse cx="130" cy="150" rx="90"  ry="130"/>
+      <line x1="130" y1="20" x2="130" y2="280"/>
+    </g>
+
+    <!-- opportunity pins -->
+    <g stroke="#14160d" stroke-width="3">
+      <g transform="translate(60 90)">
+        <path d="M0 0 L14 0 L14 18 L7 26 L0 18 Z" fill="#d1e030"/>
+        <circle cx="7" cy="9" r="3" fill="#14160d" stroke="none"/>
+      </g>
+      <g transform="translate(160 60)">
+        <path d="M0 0 L14 0 L14 18 L7 26 L0 18 Z" fill="#9eef80"/>
+        <circle cx="7" cy="9" r="3" fill="#14160d" stroke="none"/>
+      </g>
+      <g transform="translate(200 160)">
+        <path d="M0 0 L14 0 L14 18 L7 26 L0 18 Z" fill="#ec4899"/>
+        <circle cx="7" cy="9" r="3" fill="#14160d" stroke="none"/>
+      </g>
+      <g transform="translate(80 200)">
+        <path d="M0 0 L14 0 L14 18 L7 26 L0 18 Z" fill="#22d3ee"/>
+        <circle cx="7" cy="9" r="3" fill="#14160d" stroke="none"/>
+      </g>
+      <g transform="translate(150 220)">
+        <path d="M0 0 L14 0 L14 18 L7 26 L0 18 Z" fill="#fbd535"/>
+        <circle cx="7" cy="9" r="3" fill="#14160d" stroke="none"/>
+      </g>
+    </g>
+
+    <!-- program count chip -->
+    <g stroke="none">
+      <rect x="0" y="290" width="260" height="30" fill="#14160d"/>
+      <text x="12" y="311" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#9eef80">GRANTS · FELLOWSHIPS · ACCELERATORS</text>
+    </g>
+  </g>
+
+  <!-- text plate -->
+  <g font-family="'Oswald','Arial Narrow',Impact,sans-serif">
+    <text x="60" y="220" fill="#14160d" opacity="0.75" font-size="14" letter-spacing="4" font-family="'JetBrains Mono',monospace">SAQLAINAP · ARENA</text>
+    <text x="60" y="290" fill="#14160d" font-size="70" font-weight="700">FOUNDERMAP</text>
+    <text x="60" y="330" fill="#14160d" opacity="0.9" font-size="22" font-family="'JetBrains Mono',monospace">every program, one map</text>
+    <rect x="60" y="360" width="80" height="5" fill="#14160d"/>
+  </g>
+</svg>
