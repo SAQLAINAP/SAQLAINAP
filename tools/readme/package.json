@@ -1,0 +1,13 @@
+{
+  "name": "readme-kit",
+  "private": true,
+  "type": "module",
+  "description": "Generates the neo-brutalist SVG panels for the SAQLAINAP profile README",
+  "scripts": {
+    "build": "node build.mjs",
+    "pulse": "node pulse.mjs"
+  },
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}

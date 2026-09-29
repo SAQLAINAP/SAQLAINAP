@@ -39,7 +39,7 @@
   <g font-family="'Space Grotesk','Inter',system-ui,sans-serif">
     <text x="60" y="240" fill="#0b0b12" opacity="0.85" font-size="14" letter-spacing="4">SAQLAINAP · ARENA</text>
     <text x="60" y="300" fill="#ffffff" font-size="56" font-weight="700">Poligap</text>
-    <text x="60" y="345" fill="#ffffff" opacity="0.85" font-size="22">contracts ⇄ compliance</text>
+    <text x="60" y="345" fill="#ffffff" opacity="0.85" font-size="22">contracts in, risks out</text>
     <rect x="60" y="370" width="80" height="5" rx="2" fill="#ffffff" opacity="0.9"/>
   </g>
 </svg>
