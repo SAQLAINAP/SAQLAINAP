@@ -201,12 +201,12 @@ function iconPath(b, x, y, s, fill) {
   return nest(src, x, y, s, s, 'b-' + b.icon);
 }
 function button(b, { small = false } = {}) {
-  const h = small ? 40 : 50, size = small ? 13 : 15, is = small ? 18 : 22, off = small ? 5 : 6;
-  const tw = measure(b.label, { size, ls: 1.5 });
-  const w = Math.round(16 + is + 10 + tw + 18);
+  const h = small ? 38 : 50, size = small ? 12 : 15, is = small ? 16 : 22, off = small ? 5 : 6, ls = small ? 1 : 1.5, pad = small ? 12 : 16;
+  const tw = measure(b.label, { size, ls });
+  const w = Math.round(pad + is + 9 + tw + pad + 2);
   let s = card(0, 0, w, h, { fill: b.fill || C.cream, sw: 3, shadow: b.shadow || C.yellow, off });
-  s += iconPath(b, 16, (h - is) / 2, is, C.ink);
-  s += text(b.label, 16 + is + 10, h / 2 + size * 0.36, { size, fill: C.ink, ls: 1.5 });
+  s += iconPath(b, pad, (h - is) / 2, is, C.ink);
+  s += text(b.label, pad + is + 9, h / 2 + size * 0.36, { size, fill: C.ink, ls });
   return svg(w + off, h + off, s, { title: b.label });
 }
 
